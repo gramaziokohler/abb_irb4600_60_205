@@ -13,7 +13,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/base_link.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/base_link.dae"/>
       </geometry>
       <material name="yellow">
         <color rgba="1 1 0 1"/>
@@ -28,7 +28,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/link_1.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/link_1.dae"/>
       </geometry>
       <material name="yellow"/>
     </visual>
@@ -41,7 +41,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/link_2.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/link_2.dae"/>
       </geometry>
       <material name="yellow"/>
     </visual>
@@ -54,7 +54,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/link_3.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/link_3.dae"/>
       </geometry>
       <material name="yellow"/>
     </visual>
@@ -67,7 +67,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/link_4.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/link_4.dae"/>
       </geometry>
       <material name="yellow"/>
     </visual>
@@ -80,7 +80,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/link_5.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/link_5.dae"/>
       </geometry>
       <material name="yellow"/>
     </visual>
@@ -93,7 +93,7 @@
     </collision>
     <visual name="visual">
       <geometry>
-        <mesh filename="package://abb_irb4600_60_205/meshes/collision/link_6.stl"/>
+        <mesh filename="package://abb_irb4600_60_205/meshes/visual/link_6.dae"/>
       </geometry>
       <material name="yellow"/>
     </visual>
